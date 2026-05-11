@@ -69,8 +69,6 @@ ezBarControl **只用 macOS 公開的 Accessibility API**，做到絕大多數�
 
 | 限制 | 原因 |
 |---|---|
-| OneDrive 圖示無法重排 | Microsoft 沒在它的 `NSStatusItem` 開啟 reorder behavior，**手動 ⌘-drag 也動不了** |
-| pCloud 圖示無法偵測 | pCloud 用了非 `NSStatusItem` 的特殊方式畫圖示，Accessibility API 列不出來 |
 | 不能「真的隱藏」圖示 | macOS Sonoma 之後 Apple 把跨 process 寫入 ControlCenter 視窗鎖死，純靠公開 API 做不到 |
 
 ### 隱私
@@ -140,8 +138,6 @@ Press **`⌃ Space`** to open the palette (hotkey is configurable in Settings).
 
 | Limitation | Reason |
 |---|---|
-| OneDrive icon can't be reordered | Microsoft's `NSStatusItem` doesn't enable reorder behavior — even *manual* ⌘-drag fails |
-| pCloud icon isn't detected | pCloud renders its icon via a non-standard path that the Accessibility API cannot enumerate |
 | Can't truly *hide* icons | Since macOS Sonoma, cross-process writes to ControlCenter windows are silently rejected; impossible without private APIs |
 
 ### Privacy

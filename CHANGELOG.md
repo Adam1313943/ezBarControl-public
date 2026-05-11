@@ -32,8 +32,6 @@ All notable changes to ezBarControl are documented here.
 - `ezBarControl-1.0.dmg`：`15197ef148498fe05ccbd11d95eff8a14084fb1962ceed5468160f491dc3d2eb`
 
 ### 已知限制 / Known limitations
-- OneDrive 圖示無法重排（Microsoft 沒在它的 `NSStatusItem` 開啟 reorder behavior）
-- pCloud 圖示無法被 Accessibility API 偵測
 - 不支援「真正隱藏圖示」（macOS Sonoma+ 鎖死了跨 process 視窗寫入）
 
 ### 系統需求 / Requirements
