@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# 編輯器暫存
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# 私密 / 不應出現的東西（保險用）
+*.pem
+*.p12
+*.cer
+*.mobileprovision
+*.provisionprofile
+
+# 原始碼相關（這個 repo 只放公開文件）
+Sources/
+spike/
+*.swift
+Package.swift
+Package.resolved
+*.xcodeproj/
+.build/
+DerivedData/
