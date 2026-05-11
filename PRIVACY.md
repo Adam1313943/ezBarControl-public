@@ -42,7 +42,7 @@ ezBarControl **不請求**也**不需要**螢幕錄製權限。這是本軟體�
 僅儲存使用者偏好設定（目前為「自訂 hotkey」），存放於：
 
 ```
-~/Library/Preferences/com.harmonation.ezBarControl.plist
+~/Library/Preferences/com.momosoft.ezBarControl.plist
 ```
 
 這個檔案由 macOS 的 `UserDefaults` 系統管理，**僅存在您本機**，不會被同步到任何雲端服務（除非您自己用 iCloud Drive 同步整個 `~/Library`，但 macOS 預設不會這樣做）。
@@ -67,7 +67,7 @@ ezBarControl **不請求**也**不需要**螢幕錄製權限。這是本軟體�
 
 ### 聯絡方式
 
-[GitHub Issues](https://github.com/Adam1313943/ezBarControl/issues) 提交問題。
+[GitHub Issues](https://github.com/Adam1313943/ezBarControl-public/issues) 提交問題。
 
 ---
 
@@ -109,7 +109,7 @@ ezBarControl **does not request** and **does not need** Screen Recording permiss
 Only your user preferences (currently just the custom hotkey), stored at:
 
 ```
-~/Library/Preferences/com.harmonation.ezBarControl.plist
+~/Library/Preferences/com.momosoft.ezBarControl.plist
 ```
 
 This file is managed by macOS's `UserDefaults` system, exists **only on your local Mac**, and is not synced to any cloud service (unless you've manually configured iCloud Drive to sync `~/Library`, which macOS doesn't do by default).
@@ -134,7 +134,7 @@ If this policy changes in the future (e.g., adding an auto-update feature that r
 
 ### Contact
 
-Please file [GitHub Issues](https://github.com/Adam1313943/ezBarControl/issues) for questions.
+Please file [GitHub Issues](https://github.com/Adam1313943/ezBarControl-public/issues) for questions.
 
 ---
 

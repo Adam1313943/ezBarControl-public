@@ -6,6 +6,16 @@
 <!-- 這裡放主視覺截圖 / Place hero screenshot here -->
 <!-- ![ezBarControl 主面板](docs/screenshots/hero.png) -->
 
+## 📥 下載 / Download
+
+**最新版本 / Latest:** [**ezBarControl 1.0**](https://github.com/Adam1313943/ezBarControl-public/releases/latest)
+
+直接下載 DMG / Direct DMG download:
+[**ezBarControl-1.0.dmg**](https://github.com/Adam1313943/ezBarControl-public/releases/download/v1.0/ezBarControl-1.0.dmg)
+(858 KB · macOS 26+ · Universal Binary)
+
+完整版本歷史請見 [Releases](https://github.com/Adam1313943/ezBarControl-public/releases) 與 [CHANGELOG.md](CHANGELOG.md)。
+
 ---
 
 [English](#english) | [中文（繁體）](#中文繁體)
@@ -34,7 +44,7 @@ ezBarControl **只用 macOS 公開的 Accessibility API**，做到絕大多數�
 
 ### 安裝
 
-1. 從 [Releases](https://github.com/Adam1313943/ezBarControl/releases) 下載最新版 `ezBarControl-X.Y.Z.dmg`
+1. 從 [Releases](https://github.com/Adam1313943/ezBarControl-public/releases) 下載最新版 `ezBarControl-X.Y.Z.dmg`
 2. 雙擊掛載 DMG，把 `ezBarControl.app` 拖進 `/Applications` 資料夾
 3. 退出 DMG（或拖到垃圾桶卸載）
 4. 第一次啟動：**系統設定 → 隱私權與安全性 → 輔助使用 → 加入 ezBarControl**
@@ -79,10 +89,7 @@ ezBarControl **完全在你的 Mac 本機運作**：
 
 Proprietary。免費供個人使用，不可重新散佈或反組譯。詳見 [LICENSE.md](LICENSE.md)。
 
-### 開發者
-
-CHING FENG WANG / Harmonation
-聯絡：[GitHub Issues](https://github.com/Adam1313943/ezBarControl/issues)（不公開私人 email）
+問題回報請使用 [GitHub Issues](https://github.com/Adam1313943/ezBarControl-public/issues)。
 
 ---
 
@@ -108,7 +115,7 @@ ezBarControl uses **only Apple's public Accessibility API** to deliver the same 
 
 ### Install
 
-1. Download `ezBarControl-X.Y.Z.dmg` from [Releases](https://github.com/Adam1313943/ezBarControl/releases)
+1. Download `ezBarControl-X.Y.Z.dmg` from [Releases](https://github.com/Adam1313943/ezBarControl-public/releases)
 2. Double-click to mount, drag `ezBarControl.app` into `/Applications`
 3. Eject the DMG (drag it to the Trash)
 4. On first launch: **System Settings → Privacy & Security → Accessibility → add ezBarControl**
@@ -145,7 +152,4 @@ ezBarControl operates **entirely on your Mac, locally**. No data collection, no 
 
 Proprietary. Free for personal use; redistribution and reverse engineering are not permitted. See [LICENSE.md](LICENSE.md).
 
-### Developer
-
-CHING FENG WANG / Harmonation
-Contact: [GitHub Issues](https://github.com/Adam1313943/ezBarControl/issues) (please don't email private addresses)
+Issues and questions: [GitHub Issues](https://github.com/Adam1313943/ezBarControl-public/issues).

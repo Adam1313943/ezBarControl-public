@@ -50,7 +50,7 @@
 
 ### 8. 聯絡方式
 
-本合約相關問題請透過 GitHub Issues 聯繫：[https://github.com/Adam1313943/ezBarControl/issues](https://github.com/Adam1313943/ezBarControl/issues)
+本合約相關問題請透過 GitHub Issues 聯繫：[https://github.com/Adam1313943/ezBarControl-public/issues](https://github.com/Adam1313943/ezBarControl-public/issues)
 
 ---
 
@@ -100,7 +100,7 @@ This Agreement is governed by the laws of **Taiwan (Republic of China)**. Any di
 
 ### 8. Contact
 
-For questions regarding this Agreement, please use GitHub Issues: [https://github.com/Adam1313943/ezBarControl/issues](https://github.com/Adam1313943/ezBarControl/issues)
+For questions regarding this Agreement, please use GitHub Issues: [https://github.com/Adam1313943/ezBarControl-public/issues](https://github.com/Adam1313943/ezBarControl-public/issues)
 
 ---
 

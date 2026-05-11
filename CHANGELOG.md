@@ -14,7 +14,9 @@ All notable changes to ezBarControl are documented here.
 
 ---
 
-## [0.1.0] - YYYY-MM-DD（首版發佈日期 / Initial release date）
+## [1.0] - 2026-05-11
+
+首版公開發佈 / Initial public release.
 
 ### 新增 / Added
 - 全域快捷鍵 `⌃ Space` 開啟主面板（可在設定中變更）
@@ -24,7 +26,10 @@ All notable changes to ezBarControl are documented here.
 - 點擊「觸發」按鈕直接打開圖示選單（AXPress 為主、CGEvent 模擬點擊為備援）
 - 啟動時自動開啟面板，方便首次使用
 - SwiftUI 設定面板：可自訂 hotkey
-- macOS Notarized，雙擊即可開啟
+- .app 經 Apple Notarization，雙擊即可開啟
+
+### 校驗碼 / Checksum
+- `ezBarControl-1.0.dmg`：`15197ef148498fe05ccbd11d95eff8a14084fb1962ceed5468160f491dc3d2eb`
 
 ### 已知限制 / Known limitations
 - OneDrive 圖示無法重排（Microsoft 沒在它的 `NSStatusItem` 開啟 reorder behavior）
